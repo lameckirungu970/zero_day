@@ -1,1 +1,1 @@
- **Today I have installed a new VM** 
+ I have [^1] installed vagrant VM [^2] used it 
